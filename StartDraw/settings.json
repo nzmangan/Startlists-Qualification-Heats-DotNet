@@ -1,0 +1,8 @@
+{
+  "SourceFile": "runners.json",
+  "ImporterType": "json",
+  "DestinationFile": "startdraw.xml",
+  "ExporterType": "xml",
+  "Heats": 3,
+  "LogLevel": "debug"
+}

@@ -1,0 +1,1037 @@
+[
+  {
+    "grade": "Men",
+    "id": 13483,
+    "federation": "AUS",
+    "lastName": "McNulty",
+    "firstName": "Henry",
+    "group": 3,
+    "rank": 4905
+  },
+  {
+    "grade": "Men",
+    "id": 14853,
+    "federation": "AUT",
+    "lastName": "Peter",
+    "firstName": "Mathias",
+    "group": 3,
+    "rank": 4295
+  },
+  {
+    "grade": "Men",
+    "id": 15405,
+    "federation": "AUT",
+    "lastName": "Reiner",
+    "firstName": "Matthias",
+    "group": 3,
+    "rank": 4975
+  },
+  {
+    "grade": "Men",
+    "id": 13549,
+    "federation": "AUT",
+    "lastName": "Merl",
+    "firstName": "Robert",
+    "group": 2,
+    "rank": 5166
+  },
+  {
+    "grade": "Men",
+    "id": 11671,
+    "federation": "AUT",
+    "lastName": "Kerschbaumer",
+    "firstName": "Gernot",
+    "group": 1,
+    "rank": 5131
+  },
+  {
+    "grade": "Men",
+    "id": 7724,
+    "federation": "BEL",
+    "lastName": "Bloemen",
+    "firstName": "Tristan",
+    "group": 3,
+    "rank": 0
+  },
+  {
+    "grade": "Men",
+    "id": 13592,
+    "federation": "BEL",
+    "lastName": "Michiels",
+    "firstName": "Yannick",
+    "group": 3,
+    "rank": 5620
+  },
+  {
+    "grade": "Men",
+    "id": 28066,
+    "federation": "BEL",
+    "lastName": "De Cuyper",
+    "firstName": "Warre",
+    "group": 2,
+    "rank": 3780
+  },
+  {
+    "grade": "Men",
+    "id": 10587,
+    "federation": "BEL",
+    "lastName": "Hendrickx",
+    "firstName": "Tomas",
+    "group": 2,
+    "rank": 4308
+  },
+  {
+    "grade": "Men",
+    "id": 10588,
+    "federation": "BEL",
+    "lastName": "Hendrickx",
+    "firstName": "Wannes",
+    "group": 1,
+    "rank": 1000
+  },
+  {
+    "grade": "Men",
+    "id": 20876,
+    "federation": "BEL",
+    "lastName": "Hus",
+    "firstName": "Wouter",
+    "group": 1,
+    "rank": 1000
+  },
+  {
+    "grade": "Men",
+    "id": 7164,
+    "federation": "BUL",
+    "lastName": "Atanasov",
+    "firstName": "Apostol",
+    "group": 3,
+    "rank": 3600
+  },
+  {
+    "grade": "Men",
+    "id": 11467,
+    "federation": "BUL",
+    "lastName": "Kamenarov",
+    "firstName": "Ivaylo",
+    "group": 3,
+    "rank": 4208
+  },
+  {
+    "grade": "Men",
+    "id": 16365,
+    "federation": "BUL",
+    "lastName": "Sirakov",
+    "firstName": "Ivan",
+    "group": 2,
+    "rank": 4733
+  },
+  {
+    "grade": "Men",
+    "id": 25423,
+    "federation": "BUL",
+    "lastName": "Yordanov",
+    "firstName": "Stefan",
+    "group": 2,
+    "rank": 3898
+  },
+  {
+    "grade": "Men",
+    "id": 18286,
+    "federation": "BUL",
+    "lastName": "Yordanov",
+    "firstName": "Teodor",
+    "group": 1,
+    "rank": 4030
+  },
+  {
+    "grade": "Men",
+    "id": 24809,
+    "federation": "BUL",
+    "lastName": "Zhelyazkov",
+    "firstName": "Dimitar",
+    "group": 1,
+    "rank": 4066
+  },
+  {
+    "grade": "Men",
+    "id": 12187,
+    "federation": "CZE",
+    "lastName": "Kral",
+    "firstName": "Vojtech",
+    "group": 3,
+    "rank": 5661
+  },
+  {
+    "grade": "Men",
+    "id": 14322,
+    "federation": "CZE",
+    "lastName": "Nykodym",
+    "firstName": "Milos",
+    "group": 3,
+    "rank": 5222
+  },
+  {
+    "grade": "Men",
+    "id": 19046,
+    "federation": "CZE",
+    "lastName": "Kubelka",
+    "firstName": "Tomas",
+    "group": 2,
+    "rank": 4680
+  },
+  {
+    "grade": "Men",
+    "id": 25347,
+    "federation": "CZE",
+    "lastName": "Sykora",
+    "firstName": "Vojtech",
+    "group": 2,
+    "rank": 4534
+  },
+  {
+    "grade": "Men",
+    "id": 10320,
+    "federation": "CZE",
+    "lastName": "Hajek",
+    "firstName": "Daniel",
+    "group": 1,
+    "rank": 4353
+  },
+  {
+    "grade": "Men",
+    "id": 20166,
+    "federation": "CZE",
+    "lastName": "Minar",
+    "firstName": "Marek",
+    "group": 1,
+    "rank": 4623
+  },
+  {
+    "grade": "Men",
+    "id": 8831,
+    "federation": "DEN",
+    "lastName": "Dewett",
+    "firstName": "Magnus",
+    "group": 3,
+    "rank": 4653
+  },
+  {
+    "grade": "Men",
+    "id": 22688,
+    "federation": "DEN",
+    "lastName": "Edsen",
+    "firstName": "Jakob",
+    "group": 2,
+    "rank": 5149
+  },
+  {
+    "grade": "Men",
+    "id": 7760,
+    "federation": "DEN",
+    "lastName": "Boesen",
+    "firstName": "Andreas Hougaard",
+    "group": 1,
+    "rank": 5154
+  },
+  {
+    "grade": "Men",
+    "id": 15397,
+    "federation": "ESP",
+    "lastName": "Blanes",
+    "firstName": "Andreu",
+    "group": 3,
+    "rank": 5356
+  },
+  {
+    "grade": "Men",
+    "id": 13255,
+    "federation": "ESP",
+    "lastName": "Gil Marcos",
+    "firstName": "Eduardo",
+    "group": 3,
+    "rank": 4988
+  },
+  {
+    "grade": "Men",
+    "id": 13326,
+    "federation": "ESP",
+    "lastName": "Martinez Perez",
+    "firstName": "Antonio",
+    "group": 2,
+    "rank": 5379
+  },
+  {
+    "grade": "Men",
+    "id": 13880,
+    "federation": "ESP",
+    "lastName": "Nogueira",
+    "firstName": "Luis",
+    "group": 1,
+    "rank": 3980
+  },
+  {
+    "grade": "Men",
+    "id": 10551,
+    "federation": "EST",
+    "lastName": "Heinmann",
+    "firstName": "Kristo",
+    "group": 3,
+    "rank": 4812
+  },
+  {
+    "grade": "Men",
+    "id": 11784,
+    "federation": "EST",
+    "lastName": "Kivikas",
+    "firstName": "Kenny",
+    "group": 3,
+    "rank": 5329
+  },
+  {
+    "grade": "Men",
+    "id": 15512,
+    "federation": "EST",
+    "lastName": "Rjabyshkin",
+    "firstName": "Sergei",
+    "group": 2,
+    "rank": 4324
+  },
+  {
+    "grade": "Men",
+    "id": 20535,
+    "federation": "EST",
+    "lastName": "Saetalu",
+    "firstName": "Andres",
+    "group": 1,
+    "rank": 3348
+  },
+  {
+    "grade": "Men",
+    "id": 18700,
+    "federation": "FIN",
+    "lastName": "Niemi",
+    "firstName": "Aleksi",
+    "group": 3,
+    "rank": 5076
+  },
+  {
+    "grade": "Men",
+    "id": 15299,
+    "federation": "FIN",
+    "lastName": "Raitanen",
+    "firstName": "Topi",
+    "group": 3,
+    "rank": 4848
+  },
+  {
+    "grade": "Men",
+    "id": 11767,
+    "federation": "FIN",
+    "lastName": "Kirmula",
+    "firstName": "Miika",
+    "group": 2,
+    "rank": 4686
+  },
+  {
+    "grade": "Men",
+    "id": 12511,
+    "federation": "FIN",
+    "lastName": "Laukkarinen",
+    "firstName": "Jesse",
+    "group": 2,
+    "rank": 5208
+  },
+  {
+    "grade": "Men",
+    "id": 10663,
+    "federation": "FIN",
+    "lastName": "Hirvikallio",
+    "firstName": "Joni",
+    "group": 1,
+    "rank": 4532
+  },
+  {
+    "grade": "Men",
+    "id": 16342,
+    "federation": "FIN",
+    "lastName": "Simosas",
+    "firstName": "Otto",
+    "group": 1,
+    "rank": 5077
+  },
+  {
+    "grade": "Men",
+    "id": 7403,
+    "federation": "FRA",
+    "lastName": "Basset",
+    "firstName": "Lucas",
+    "group": 3,
+    "rank": 5319
+  },
+  {
+    "grade": "Men",
+    "id": 8188,
+    "federation": "FRA",
+    "lastName": "Capbern",
+    "firstName": "Loic",
+    "group": 3,
+    "rank": 4849
+  },
+  {
+    "grade": "Men",
+    "id": 8581,
+    "federation": "FRA",
+    "lastName": "Coupat",
+    "firstName": "Vincent",
+    "group": 2,
+    "rank": 4673
+  },
+  {
+    "grade": "Men",
+    "id": 20655,
+    "federation": "FRA",
+    "lastName": "Rauturier",
+    "firstName": "Quentin",
+    "group": 2,
+    "rank": 4586
+  },
+  {
+    "grade": "Men",
+    "id": 19918,
+    "federation": "FRA",
+    "lastName": "Delenne",
+    "firstName": "Adrien",
+    "group": 1,
+    "rank": 4956
+  },
+  {
+    "grade": "Men",
+    "id": 17348,
+    "federation": "FRA",
+    "lastName": "Tranchand",
+    "firstName": "Frederic",
+    "group": 1,
+    "rank": 5673
+  },
+  {
+    "grade": "Men",
+    "id": 11299,
+    "federation": "GBR",
+    "lastName": "Jones",
+    "firstName": "Kristian",
+    "group": 3,
+    "rank": 5170
+  },
+  {
+    "grade": "Men",
+    "id": 16782,
+    "federation": "GBR",
+    "lastName": "Street",
+    "firstName": "Ralph",
+    "group": 3,
+    "rank": 4993
+  },
+  {
+    "grade": "Men",
+    "id": 8351,
+    "federation": "GBR",
+    "lastName": "Chepelin",
+    "firstName": "Alexander",
+    "group": 2,
+    "rank": 4599
+  },
+  {
+    "grade": "Men",
+    "id": 16491,
+    "federation": "GBR",
+    "lastName": "Smithard",
+    "firstName": "Chris",
+    "group": 2,
+    "rank": 5325
+  },
+  {
+    "grade": "Men",
+    "id": 10688,
+    "federation": "GBR",
+    "lastName": "Hodkinson",
+    "firstName": "Peter",
+    "group": 1,
+    "rank": 5272
+  },
+  {
+    "grade": "Men",
+    "id": 13474,
+    "federation": "GBR",
+    "lastName": "McLeod",
+    "firstName": "Alasdair",
+    "group": 1,
+    "rank": 4736
+  },
+  {
+    "grade": "Men",
+    "id": 9942,
+    "federation": "GER",
+    "lastName": "Goericke",
+    "firstName": "Marvin",
+    "group": 3,
+    "rank": 4434
+  },
+  {
+    "grade": "Men",
+    "id": 16618,
+    "federation": "GER",
+    "lastName": "Spaeth",
+    "firstName": "Felix",
+    "group": 3,
+    "rank": 4560
+  },
+  {
+    "grade": "Men",
+    "id": 9068,
+    "federation": "GER",
+    "lastName": "Doellgast",
+    "firstName": "Moritz",
+    "group": 2,
+    "rank": 4233
+  },
+  {
+    "grade": "Men",
+    "id": 15207,
+    "federation": "GER",
+    "lastName": "Prunsche",
+    "firstName": "Christoph",
+    "group": 2,
+    "rank": 4213
+  },
+  {
+    "grade": "Men",
+    "id": 9624,
+    "federation": "GER",
+    "lastName": "Friedrichs",
+    "firstName": "Bjarne",
+    "group": 1,
+    "rank": 3952
+  },
+  {
+    "grade": "Men",
+    "id": 13978,
+    "federation": "GER",
+    "lastName": "Mueller",
+    "firstName": "Philipp",
+    "group": 1,
+    "rank": 3524
+  },
+  {
+    "grade": "Men",
+    "id": 7199,
+    "federation": "ISR",
+    "lastName": "Avner",
+    "firstName": "Asaf",
+    "group": 3,
+    "rank": 3358
+  },
+  {
+    "grade": "Men",
+    "id": 21437,
+    "federation": "ISR",
+    "lastName": "Manor",
+    "firstName": "Itay",
+    "group": 2,
+    "rank": 3664
+  },
+  {
+    "grade": "Men",
+    "id": 20182,
+    "federation": "ISR",
+    "lastName": "Yasur",
+    "firstName": "Nitsan",
+    "group": 1,
+    "rank": 4295
+  },
+  {
+    "grade": "Men",
+    "id": 8196,
+    "federation": "ITA",
+    "lastName": "Caraglio",
+    "firstName": "Michele",
+    "group": 3,
+    "rank": 3912
+  },
+  {
+    "grade": "Men",
+    "id": 19153,
+    "federation": "ITA",
+    "lastName": "Debertolis",
+    "firstName": "Mattia",
+    "group": 3,
+    "rank": 4353
+  },
+  {
+    "grade": "Men",
+    "id": 8680,
+    "federation": "ITA",
+    "lastName": "Dallavalle",
+    "firstName": "Roberto",
+    "group": 2,
+    "rank": 4265
+  },
+  {
+    "grade": "Men",
+    "id": 11008,
+    "federation": "ITA",
+    "lastName": "Inderst",
+    "firstName": "Sebastian",
+    "group": 2,
+    "rank": 4202
+  },
+  {
+    "grade": "Men",
+    "id": 18966,
+    "federation": "ITA",
+    "lastName": "Scalet",
+    "firstName": "Riccardo",
+    "group": 1,
+    "rank": 5092
+  },
+  {
+    "grade": "Men",
+    "id": 17146,
+    "federation": "ITA",
+    "lastName": "Tenani",
+    "firstName": "Alessio",
+    "group": 1,
+    "rank": 4422
+  },
+  {
+    "grade": "Men",
+    "id": 25943,
+    "federation": "JPN",
+    "lastName": "Baumann",
+    "firstName": "Sebastian Ken",
+    "group": 1,
+    "rank": 4216
+  },
+  {
+    "grade": "Men",
+    "id": 18766,
+    "federation": "LAT",
+    "lastName": "Dislers",
+    "firstName": "Davis",
+    "group": 3,
+    "rank": 4538
+  },
+  {
+    "grade": "Men",
+    "id": 11329,
+    "federation": "LAT",
+    "lastName": "Jubelis",
+    "firstName": "Andris",
+    "group": 3,
+    "rank": 4756
+  },
+  {
+    "grade": "Men",
+    "id": 14704,
+    "federation": "LAT",
+    "lastName": "Paulins",
+    "firstName": "Arturs",
+    "group": 2,
+    "rank": 4952
+  },
+  {
+    "grade": "Men",
+    "id": 22993,
+    "federation": "LAT",
+    "lastName": "Upitis",
+    "firstName": "Uldis",
+    "group": 2,
+    "rank": 4124
+  },
+  {
+    "grade": "Men",
+    "id": 11786,
+    "federation": "LAT",
+    "lastName": "Kivlenieks",
+    "firstName": "Andris",
+    "group": 1,
+    "rank": 4690
+  },
+  {
+    "grade": "Men",
+    "id": 19137,
+    "federation": "LAT",
+    "lastName": "Titomers",
+    "firstName": "Endijs",
+    "group": 1,
+    "rank": 4322
+  },
+  {
+    "grade": "Men",
+    "id": 10248,
+    "federation": "LTU",
+    "lastName": "Gvildys",
+    "firstName": "Jonas Vytautas",
+    "group": 3,
+    "rank": 5175
+  },
+  {
+    "grade": "Men",
+    "id": 18826,
+    "federation": "LTU",
+    "lastName": "Bartkevicius",
+    "firstName": "Algirdas",
+    "group": 2,
+    "rank": 4812
+  },
+  {
+    "grade": "Men",
+    "id": 24197,
+    "federation": "LTU",
+    "lastName": "Martinkus",
+    "firstName": "Mantas",
+    "group": 1,
+    "rank": 1000
+  },
+  {
+    "grade": "Men",
+    "id": 9342,
+    "federation": "MDA",
+    "lastName": "Fala",
+    "firstName": "Gheorghe",
+    "group": 1,
+    "rank": 1654
+  },
+  {
+    "grade": "Men",
+    "id": 23855,
+    "federation": "NOR",
+    "lastName": "Fosser",
+    "firstName": "Kasper",
+    "group": 3,
+    "rank": 4488
+  },
+  {
+    "grade": "Men",
+    "id": 14760,
+    "federation": "NOR",
+    "lastName": "Moen Pedersli",
+    "firstName": "Trond Einar",
+    "group": 3,
+    "rank": 4710
+  },
+  {
+    "grade": "Men",
+    "id": 23864,
+    "federation": "NOR",
+    "lastName": "Jonsson",
+    "firstName": "Elias",
+    "group": 2,
+    "rank": 4526
+  },
+  {
+    "grade": "Men",
+    "id": 14509,
+    "federation": "NOR",
+    "lastName": "Osmoen",
+    "firstName": "Jon Aukrust",
+    "group": 2,
+    "rank": 4975
+  },
+  {
+    "grade": "Men",
+    "id": 11163,
+    "federation": "NOR",
+    "lastName": "Jarvis Westergard",
+    "firstName": "Hakon",
+    "group": 1,
+    "rank": 5473
+  },
+  {
+    "grade": "Men",
+    "id": 18660,
+    "federation": "NOR",
+    "lastName": "Kvaal Osterbo",
+    "firstName": "Oystein",
+    "group": 1,
+    "rank": 5249
+  },
+  {
+    "grade": "Men",
+    "id": 22452,
+    "federation": "NZL",
+    "lastName": "Hayes",
+    "firstName": "Tommy",
+    "group": 2,
+    "rank": 4482
+  },
+  {
+    "grade": "Men",
+    "id": 15525,
+    "federation": "NZL",
+    "lastName": "Robertson",
+    "firstName": "Tim",
+    "group": 1,
+    "rank": 5464
+  },
+  {
+    "grade": "Men",
+    "id": 14406,
+    "federation": "POL",
+    "lastName": "Olejnik",
+    "firstName": "Michal",
+    "group": 3,
+    "rank": 4540
+  },
+  {
+    "grade": "Men",
+    "id": 14642,
+    "federation": "POL",
+    "lastName": "Parfianowicz",
+    "firstName": "Piotr",
+    "group": 1,
+    "rank": 5177
+  },
+  {
+    "grade": "Men",
+    "id": 9450,
+    "federation": "POR",
+    "lastName": "Figueiredo",
+    "firstName": "Joao Mega",
+    "group": 2,
+    "rank": 4399
+  },
+  {
+    "grade": "Men",
+    "id": 7719,
+    "federation": "ROU",
+    "lastName": "Blejdea",
+    "firstName": "Alexandru",
+    "group": 3,
+    "rank": 3246
+  },
+  {
+    "grade": "Men",
+    "id": 8458,
+    "federation": "ROU",
+    "lastName": "Ciobanu",
+    "firstName": "Roman",
+    "group": 3,
+    "rank": 4304
+  },
+  {
+    "grade": "Men",
+    "id": 7771,
+    "federation": "ROU",
+    "lastName": "Tamas",
+    "firstName": "Bogya",
+    "group": 2,
+    "rank": 3808
+  },
+  {
+    "grade": "Men",
+    "id": 27308,
+    "federation": "ROU",
+    "lastName": "Minoiu",
+    "firstName": "George Emilian",
+    "group": 1,
+    "rank": 3227
+  },
+  {
+    "grade": "Men",
+    "id": 17414,
+    "federation": "RUS",
+    "lastName": "Tsvetkov",
+    "firstName": "Dmitry",
+    "group": 3,
+    "rank": 4667
+  },
+  {
+    "grade": "Men",
+    "id": 11718,
+    "federation": "RUS",
+    "lastName": "Khramov",
+    "firstName": "Andrey",
+    "group": 2,
+    "rank": 5196
+  },
+  {
+    "grade": "Men",
+    "id": 15056,
+    "federation": "RUS",
+    "lastName": "Poliakov",
+    "firstName": "Dmitrii",
+    "group": 2,
+    "rank": 4738
+  },
+  {
+    "grade": "Men",
+    "id": 15086,
+    "federation": "RUS",
+    "lastName": "Popov",
+    "firstName": "Artem",
+    "group": 1,
+    "rank": 5069
+  },
+  {
+    "grade": "Men",
+    "id": 22153,
+    "federation": "RUS",
+    "lastName": "Popov",
+    "firstName": "Igor",
+    "group": 1,
+    "rank": 4265
+  },
+  {
+    "grade": "Men",
+    "id": 10810,
+    "federation": "SUI",
+    "lastName": "Howald",
+    "firstName": "Florian",
+    "group": 3,
+    "rank": 5531
+  },
+  {
+    "grade": "Men",
+    "id": 12305,
+    "federation": "SUI",
+    "lastName": "Kyburz",
+    "firstName": "Matthias",
+    "group": 3,
+    "rank": 5820
+  },
+  {
+    "grade": "Men",
+    "id": 10849,
+    "federation": "SUI",
+    "lastName": "Hubmann",
+    "firstName": "Daniel",
+    "group": 2,
+    "rank": 5641
+  },
+  {
+    "grade": "Men",
+    "id": 15729,
+    "federation": "SUI",
+    "lastName": "Rueedlinger",
+    "firstName": "Andreas",
+    "group": 2,
+    "rank": 4913
+  },
+  {
+    "grade": "Men",
+    "id": 23033,
+    "federation": "SUI",
+    "lastName": "Hadorn",
+    "firstName": "Joey",
+    "group": 1,
+    "rank": 4736
+  },
+  {
+    "grade": "Men",
+    "id": 10851,
+    "federation": "SUI",
+    "lastName": "Hubmann",
+    "firstName": "Martin",
+    "group": 1,
+    "rank": 5400
+  },
+  {
+    "grade": "Men",
+    "id": 15991,
+    "federation": "SUI",
+    "lastName": "Schneider",
+    "firstName": "Florian",
+    "group": 1,
+    "rank": 5020
+  },
+  {
+    "grade": "Men",
+    "id": 7562,
+    "federation": "SWE",
+    "lastName": "Bergman",
+    "firstName": "Gustav",
+    "group": 3,
+    "rank": 5544
+  },
+  {
+    "grade": "Men",
+    "id": 16905,
+    "federation": "SWE",
+    "lastName": "Svensk",
+    "firstName": "Emil",
+    "group": 3,
+    "rank": 5473
+  },
+  {
+    "grade": "Men",
+    "id": 7466,
+    "federation": "SWE",
+    "lastName": "Bejmer",
+    "firstName": "Max Peter",
+    "group": 2,
+    "rank": 4840
+  },
+  {
+    "grade": "Men",
+    "id": 12555,
+    "federation": "SWE",
+    "lastName": "Leandersson",
+    "firstName": "Jonas",
+    "group": 2,
+    "rank": 5433
+  },
+  {
+    "grade": "Men",
+    "id": 8136,
+    "federation": "SWE",
+    "lastName": "Borjeskog",
+    "firstName": "Eric",
+    "group": 1,
+    "rank": 4992
+  },
+  {
+    "grade": "Men",
+    "id": 15387,
+    "federation": "SWE",
+    "lastName": "Regborn",
+    "firstName": "Martin",
+    "group": 1,
+    "rank": 5680
+  },
+  {
+    "grade": "Men",
+    "id": 11402,
+    "federation": "TUR",
+    "lastName": "Kacmaz",
+    "firstName": "Ahmet",
+    "group": 2,
+    "rank": 4167
+  },
+  {
+    "grade": "Men",
+    "id": 7345,
+    "federation": "USA",
+    "lastName": "Barbone",
+    "firstName": "Giacomo",
+    "group": 3,
+    "rank": 3687
+  },
+  {
+    "grade": "Men",
+    "id": 25115,
+    "federation": "USA",
+    "lastName": "Salmenkyla",
+    "firstName": "Anton",
+    "group": 2,
+    "rank": 1968
+  },
+  {
+    "grade": "Men",
+    "id": 22494,
+    "federation": "USA",
+    "lastName": "Jorgensen",
+    "firstName": "Morten",
+    "group": 1,
+    "rank": 3727
+  }
+]
